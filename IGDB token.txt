@@ -1,0 +1,14 @@
+{
+    
+"access_token": "0s4tl8fzig62mj4ww01l6u1e5r22gm",
+    
+"expires_in": 5438484,
+    
+"token_type": "bearer"
+
+}
+
+
+
+Client ID: 3g0y6je4xqs87zkerbbwhn07ds08p6
+Client Secret: nscrdbu3jcgv6p29m7l3ljgh1pe4sw
