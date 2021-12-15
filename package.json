@@ -1,0 +1,19 @@
+{
+  "name": "gamelog",
+  "version": "1.0.0",
+  "description": "A directory for games",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-PRO:umair-ali14/gamelog.git"
+  },
+  "author": "Umair Ali",
+  "license": "ISC"
+}
