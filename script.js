@@ -13,8 +13,14 @@ axios({
     data: "fields image_id, url;limit 50;offset 0;"
 })
     .then(response => {
+        // dataHandler(response.data);
         console.log(response.data);
     })
     .catch(err => {
         console.error(err);
     })
+
+// function dataHandler(data) {
+//     const h1 = document.querySelectorAll('h1');
+//     h1[0].textContent = data[0].url;
+// }
